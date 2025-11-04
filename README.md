@@ -14,3 +14,6 @@ Com ele, é possível registrar entradas e saídas, visualizar lançamentos e ac
 - **JavaScript (ES6)**  
 - **Bootstrap**
 
+![Home](assets/preview/home.png)
+![Login](assets/preview/login.png)
+![Lançamentos](assets/preview/transactions.png)
