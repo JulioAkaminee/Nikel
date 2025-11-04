@@ -11,7 +11,7 @@ Com ele, é possível registrar entradas e saídas, visualizar lançamentos e ac
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (ES6)**  
+- **JavaScript**  
 - **Bootstrap**
 
 ![Home](assets/preview/home.png)
